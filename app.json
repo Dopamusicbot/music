@@ -1,9 +1,9 @@
 {
   "name": "kishumusic",
-  "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
+  "logo": "https://telegra.ph/file/068172759cf5d1bd761c9.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/kishannn07/music",
+  "repository": "https://github.com/Dopamusicbot/music",
   "stack": "container",
   "buildpacks": [
    {
@@ -34,12 +34,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "gulu_gulu_garden"
+      "value": "UniversalStarChats"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "kishumusic"
+      "value": "dopamusic"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -53,12 +53,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://te.legra.ph/file/66c09b4a114a465d3f617.jpg"
+      "value": " https://telegra.ph/file/667ed65a936a707c0d19a.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "kishu_music"
+      "value": "dopa_music"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",

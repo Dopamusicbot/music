@@ -1,34 +1,45 @@
+# TC DOPA MUSIC
+<h2 align="centre">🥀 ᴛᴄ ᴅᴏᴘᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ 🥀</h2>
 
-# [𝗸𝗶𝘀𝗵𝗮𝗻𝗺𝘂𝘀𝗶𝗰](http://t.me/Pihu_kishu_bot) 
+### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ 
 
-![𝗸𝗶𝘀𝗵𝗮𝗻](https://te.legra.ph/file/66c09b4a114a465d3f617.jpg) 
+<p align="center">
+  <img src="https://telegra.ph/file/088455df524bc7d105c44.jpg">
+</p>
 
-#  ⚡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ✈️[Here !](https://t.me/gulu_gulu_garden)
+<h3>Requirements 📝</h3>
 
-[![kishan](https://img.shields.io/badge/kishan%20-Support%20-blue)](https://t.me/gulu_gulu_garden)
-[![Kishan](https://img.shields.io/badge/kishan%20-Updates%20-blue)](https://t.me/kishu_music)
+- FFmpeg
+- NodeJS [nodesource.com](https://nodesource.com/)
+- Python 3.7+
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+
+### ᴄᴏᴍᴍᴀɴᴅꜱ 🛠
+#### ꜰᴏʀ ᴀʟʟ ɢʀᴏᴜᴘ
+- /play - reply to youtube url or song file to play song
+- /play <song name> - play song you requested
+- /song <song name> - download songs you want quickly
+- /search <query> - search videos on youtube with details
+
+#### ᴏɴʟʏ ᴀᴅᴍɪɴꜱ
+- /pause - pause song play
+- /resume - resume song play
+- /skip - play next song
+- /end - stop music play
+
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</h4>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dopamusicbot/music)
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Dopamusicbot/music&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USER)
+
+### ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ
+[Repl Link](https://replit.com/@Botsupport/PatriciaXmusic) to get pyrogram string session
 
 
-## Cᴏᴍᴍᴀɴᴅs
-```
-->Music•Player<-
-=>> *Song Playing* 🎧 
-❍ /play  - play song you requested
-❍ /song  - download songs you want quickly
-❍ /video  - download videos you want quickly
-=>> *Admins only*
-❍ /player - open music player settings panel
-❍ /pause - pause song play
-❍ /resume - resume song play
-❍ /skip - play next song
-❍ /end - stop music play
-❍ /userbotjoin - invite assistant to your cha
-❍ /refresh - Refresh admin list
+# CREDITS
 
-```
-###GET STRING SESSION FROM REPL RUN
+- [╚⌬•T͜͡ᴄ፨D͜͡ᴏᴘᴀ፨U͜͡sᴇʀ•<A͜͡ғᴋ>•⌬╝](https://t.me/nIkLaUsMiKaElSn) for Creating Repo
 
- [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@ZauteKm/GenerateStringSession#main.py)
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kishannn07/music"><img src="https://img.shields.io/badge/DECODE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
-
+# .•♫•♬• ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ᴛᴄ ᴅᴏᴘᴀ ᴍᴜsɪᴄ ʀᴇᴘᴏ •♫•♬•
